@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "retype": "^0.2.0"
-  }
+    "scripts": {
+    "start": "retype start",
+    "build": "retype build"
+    },
+    "dependencies": {
+        "retypeapp-win-x64": "^3.5.0"
+    }
 }
